@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=namans511&label=Profile%20views&color=77bb41&style=flat" alt="namans511" /> </p>
 
-- 🔭 I’m currently working on [Face Recognition System](https://github.com/namans511/Face-Recognition)
+<!-- - 🔭 I’m currently working on [Face Recognition System](https://github.com/namans511/Face-Recognition) -->
 
-- 🌱 I’m currently learning **Python and ML.**
+- 🌱 I’m currently learning **TypeScript**
 
 - 👨‍💻 All of my projects are available at [https://github.com/namans511/](https://github.com/namans511/)
 
